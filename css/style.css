@@ -373,6 +373,7 @@ a {
     display: block;
     width: 400px;
     height: 500px;
+    object-fit: cover;
 }
 
 .footer {
