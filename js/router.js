@@ -61,7 +61,7 @@
             isTouch = true;
             setTimeout(function() {
                 isTouch = false;
-            }, 500);
+            }, 1000);
             document.location.href = key.href;
 
             for (let key of activeLink) {
